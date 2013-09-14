@@ -1,9 +1,5 @@
-Requests: HTTP for Humans
+Requests-Proxy
 =========================
-
-Requests is an Apache2 Licensed HTTP library, written in Python, for human
-beings.
-
 
 This fork adds the latest urllib3 to allow for improved http proxy support in certain 
 situations you might encounter in an enterprise environment. If you ever found your way
